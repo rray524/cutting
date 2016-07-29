@@ -1,0 +1,233 @@
+@media (min-width:992px) and (max-width: 1199px) {
+.navbar-brand > img {
+  left: 30px;
+  top: -81px;
+  width: 91%;
+}
+.navbar-right {
+  margin-right: 74px;
+}
+.navbar-nav > li > a {
+  padding-right: 16px;
+}
+.about-us-pad {
+  padding: 0 191px;
+}
+
+}
+
+@media (min-width:768px) and (max-width: 991px) {
+  .phone-no {
+    top: 21px;
+  }
+.phone-no > p {
+  font-size: 32.5px;
+}
+.navbar-nav > li > a {
+  padding-right: 4px;
+}
+.nav.navbar-nav.navbar-right a {
+  font-size: 14px;
+}
+.navbar-right {
+  margin-right: 0;
+}
+.navbar-brand > img {
+  left: 16px;
+  top: -63px;
+  width: 72%;
+}
+.welcome-note h1 {
+  font-size: 43px;
+  margin: 159px 0 32px;
+}
+.about-us-pad {
+  padding: 0 94px;
+}
+.about-us-body {
+  margin-bottom: 40px;
+  margin-top: 40px;
+
+}
+.about-us-body h1 {
+  font-size: 43px;
+}
+.about-us-area p {
+  font-size: 15px;
+  line-height: 31px;
+  padding: 0 17px 22px;
+}
+.project-body h1 {
+  font-size: 43px;
+  margin: 20px 0 6px;
+}
+.image-gallery {
+  margin-top: 25px;
+}
+.contact {
+  padding-top: 15px;
+}
+.contact-left > h3 {
+  font-size: 19px;
+}
+.contact-left > p {
+  font-size: 14px;
+  line-height: 24px;
+}
+.contact-right > h3 {
+  font-size: 19px;
+}
+.contact-right > a {
+  font-size: 14px;
+  line-height: 24px;
+}
+.form-control {
+  font-size: 12px;
+  height: 34px;
+  width: 100%;
+}
+.container.minus {
+  width: 93%;
+}
+.special {
+  padding-top: 67px;
+  font-size: 19px;
+}
+.btn {
+  font-size: 15px;
+}
+
+.btn.btn-warning.btn-md {
+  margin-bottom: 19px;
+}
+.col-sm-6 > p {
+  font-size: 13px;
+  margin: 14px 0;
+}
+.contact-right > address > p {
+	font-size: 15px;
+}
+.contact-right > address > a {
+	font-size: 21px;
+}
+#scrollUp {
+  background-image: url("../img/bottom-top2.png")!important;
+  bottom: 46px!important;
+  right: 91px!important;
+  width: 38px!important;
+  height: 38px!important;
+}
+}
+
+@media (min-width:320px) and (max-width: 767px) {
+
+.phone-no {
+  top: 25px;
+}
+.phone-no > p {
+  font-size: 24.5px;
+}
+
+.navbar-brand > img {
+  left: -18px;
+  top: -38px;
+  width: 49%;
+}
+.welcome-note h1 {
+  font-size: 38px;
+  line-height: 49px;
+  margin: 72px 0 25px;
+}
+
+.about-us-pad {
+  padding: 0;
+}
+.about-us-body {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.about-us-body h1 {
+  font-size: 38px;
+  padding: 21px 0 0;
+}
+.about-us-area p {
+  font-size: 15px;
+  line-height: 28px;
+  padding: 0 6px 9px;
+}
+.project-body h1 {
+  font-size: 38px;
+  margin: 14px 0 3px;
+}
+.image-gallery {
+  margin-top: 14px;
+}
+
+.project-img > img {
+  margin-bottom: 19px;
+}
+
+.contact {
+  padding-top: 5px;
+}
+.contact-left > h3 {
+  font-size: 17px;
+  margin-top: 10px;
+}
+.contact-right > h3 {
+  font-size: 17px;
+
+}
+.contact-left > p {
+  font-size: 14px;
+  line-height: 22px;
+}
+.container.minus {
+  width: 100%;
+}
+
+.form-control {
+  font-size: 14px;
+  height: 34px;
+  width: 100%;
+}
+.btn.btn-warning.btn-md {
+  margin-bottom: 12px;
+}
+.btn {
+  border-radius: 3px;
+  font-size: 11px;
+  padding: 10px 28px;
+}
+.contact-right > a {
+  font-size: 11px;
+  line-height: 22px;
+
+}
+.special {
+  padding-top: 21px;
+  font-size: 17px;
+}
+.col-sm-6 > p {
+  font-size: 11px;
+  margin: 5px 0;
+  text-align: center;
+}
+
+.col-sm-6.aligh-right {
+  text-align: center;
+}
+.contact-right > address > p {
+	font-size: 17px;
+}
+.contact-right > address > a {
+	font-size: 20px;
+}
+#scrollUp {
+  background-image: url("../img/bottom-top2.png")!important;
+  bottom: 46px!important;
+  right: 13px!important;
+  width: 38px!important;
+  height: 38px!important;
+}
+}
